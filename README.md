@@ -39,12 +39,9 @@ Customer churn is one of the most critical challenges in any subscription or ser
 ## 🖼️ Dashboard Preview
 
 
-| Overview Page | Churn Analysis | Risk Categoty |
-|---|---|---|
-| <img width="1038" height="583" alt="Customer_Churn_Analysis_Dashboard" src="https://github.com/user-attachments/assets/5bd9942b-3c1e-4e79-9f91-0ea0675eb627" />
- | <img width="314" height="205" alt="image" src="https://github.com/user-attachments/assets/987ab567-c0f3-43e4-8cba-b4a162921442" />
- | <img width="312" height="198" alt="image" src="https://github.com/user-attachments/assets/a0931d46-b785-4f9b-85be-a35cdeea6651" />
- |
+|Overview Page|Churn Analysis|Risk Categoty|
+|-|-|-|
+|*<img width="1038" height="583" alt="Customer_Churn_Analysis_Dashboard" src="https://github.com/user-attachments/assets/5bd9942b-3c1e-4e79-9f91-0ea0675eb627" />*|*<img width="314" height="205" alt="image" src="https://github.com/user-attachments/assets/987ab567-c0f3-43e4-8cba-b4a162921442" />*|*<img width="312" height="198" alt="image" src="https://github.com/user-attachments/assets/a0931d46-b785-4f9b-85be-a35cdeea6651" />*|
 
 ---
 
